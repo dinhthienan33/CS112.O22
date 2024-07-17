@@ -1,0 +1,1 @@
+{"name":"Local: bai8","url":"d:\\Nam 2\\PTTKTT\\BTVN2\\bai8.cpp","tests":[{"id":1716991461856,"input":"5 3\nT K I U O\n0 8 3 0 1\n3 0 0 9 6\n2 3 0 0 5\n8 2 8 0 0\n8 8 8 0 0\nK U\nI O\nK O","output":"K U\n5 9\nI T O\n3 3\nK T O\n3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Nam 2\\PTTKTT\\BTVN2\\bai8.cpp","group":"local","local":true}

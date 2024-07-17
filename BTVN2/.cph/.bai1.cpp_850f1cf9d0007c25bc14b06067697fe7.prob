@@ -1,0 +1,1 @@
+{"name":"Local: bai1","url":"d:\\Nam 2\\PTTKTT\\BTVN2\\bai1.cpp","tests":[{"id":1716219118139,"input":"6\nK I\nO I\nI K\nK O\nI O\nO K","output":"TRUE"},{"id":1716220915165,"input":"6\nK I\nO I\nI K\nK O\nI O\nO I","output":"FALSE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Nam 2\\PTTKTT\\BTVN2\\bai1.cpp","group":"local","local":true}

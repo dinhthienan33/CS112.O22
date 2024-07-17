@@ -1,0 +1,1 @@
+{"name":"Local: bai14","url":"d:\\Nam 2\\PTTKTT\\BTVN2\\bai14.py","tests":[{"id":1716884567335,"input":"1 2 3\n4 5 6\n7 8 9","output":"123456789\n456789123\n789123456\n231564897\n564897231\n897231564\n312645978\n645978312\n978312645"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Nam 2\\PTTKTT\\BTVN2\\bai14.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: bt9","url":"d:\\Nam 2\\PTTKTT\\BTVN\\bt9.cpp","tests":[{"id":1715182344220,"input":"8 3\n79 1 80 59 75 51 7 29\n49 71 44 55 22 61 31 88\n59 28 9 19 18 60 54 68","output":"1 0 2 2 2 0 0 0"},{"id":1715186364743,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Nam 2\\PTTKTT\\BTVN\\bt9.cpp","group":"local","local":true}

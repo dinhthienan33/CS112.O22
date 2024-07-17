@@ -1,0 +1,1 @@
+{"name":"Local: bt10","url":"d:\\Nam 2\\PTTKTT\\BTVN\\bt10.cpp","tests":[{"id":1715227457548,"input":"4 3\n684 -1 -1 886\n465 686 377 898\n565 995 902 -1","output":"1 2 1 0"},{"id":1715228752194,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Nam 2\\PTTKTT\\BTVN\\bt10.cpp","group":"local","local":true}

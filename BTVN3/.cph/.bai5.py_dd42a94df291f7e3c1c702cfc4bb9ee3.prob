@@ -1,0 +1,1 @@
+{"name":"Local: bai5","url":"d:\\Nam 2\\PTTKTT\\BTVN3\\bai5.py","tests":[{"id":1717570167103,"input":"4\n*...\n.*..\n...*\n*...","output":""},{"id":1717570574015,"input":"10\n","output":".*"},{"id":1717570794452,"input":"1\n*","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Nam 2\\PTTKTT\\BTVN3\\bai5.py","group":"local","local":true}
